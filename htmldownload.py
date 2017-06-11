@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#from immoc
+#most from immoc
 import urllib2
 class HtmlDownLoad():
         

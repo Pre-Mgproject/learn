@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#from immoc
+#most from immoc
 class UrlManager(object):
     def __init__(self):
         self.newurls=set()

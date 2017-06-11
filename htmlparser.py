@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#from imooc
+#most from imooc
 from bs4 import BeautifulSoup as bs
 import urlparse
 import re
